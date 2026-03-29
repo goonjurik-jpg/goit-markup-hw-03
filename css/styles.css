@@ -256,6 +256,7 @@ a {
 .portfolio-item {
   max-width: 360px;
   width: calc((100%-24px * 2) / 3);
+  border-bottom: 1px solid #e7e9fc;
 }
 
 .portfolio-content {
